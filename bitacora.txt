@@ -1,0 +1,15 @@
+Metodo:GET
+URL:http://127.0.0.1:5500/
+Codigo de status:304 Not Modified
+Host: http://127.0.0.1:5500/
+Puerto: 127.0.0.1:5500
+
+
+
+Cannot GET /promociones.html: significa que no puedo obtener la pagina: /promociones.html
+
+
+
+El html servira para formar las bases de la pagina como las imagenes de las bicicletas, los textos etc.
+el css servira para darles tamañno a las imagenes, organizarlas al lado de su texto y cambiar el diseño de fondo para que sea mas ameno
+el javascript servira para que la pagina tenga funcionalidad real como poder rentar realmente las bicicletas
