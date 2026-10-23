@@ -98,3 +98,4 @@ La estructura de mi pagina es bastante simple, se compone de:
 
 hay dos divs que se deben conservar en la pagina de tarifas ya que son informacion complementaria lo cual no se ajusta mucho a el resto de etiquetas
 
+(hoy 22/10/2026 se fue la luz en las oficinas de riwi y perdi progreso que tuve que adelantar en casa, al intentar subir lo rehecho a github me aparecio un error que pude solucionar con la ayuda de la ia, por esto talvez habra un commit extra)
