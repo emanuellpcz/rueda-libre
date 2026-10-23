@@ -238,4 +238,6 @@ combinacion 8: blanco sobre azul noche: apto para ambos
 
 usare fondo crema, el texto sera de azul noche, los enlaces seran de su color base y los botones seran verde ruta
 
-https://emanuellpcz.github.io/rueda-libre/index.html
+despues de una extensa investigacion buscando el error de porque no me funcionaban los links en index al final pude solucionarlo
+
+https://emanuellpcz.github.io/rueda-libree/index.html
