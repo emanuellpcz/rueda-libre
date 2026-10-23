@@ -144,7 +144,7 @@ Tipo de recorrido	Reto Las Palmas
 Comentarios	Ninguno
 Acepta políticas	check
 
-Test 4 — 
+Test 4 
 
 Nombre completo	Carlos Andrés Ruiz
 Número de documento	123456789
@@ -212,3 +212,30 @@ Cantidad de bicicletas	4
 Tipo de recorrido	Sabores de barrio
 Comentarios	Por favor, preparar las bicicletas temprano.
 Acepta políticas	nocheck
+
+
+corregi el alt de una imagen de "imagen-bicicleta" a "logo"
+
+renombramiento del alt de almenos 3 imagenes para mejor comprendimiento
+
+
+combinacion 1: blanco sobre verde ruta: apta para texto largo
+
+combinacion 2: blanco sobre naranja pedal: no apto
+
+combinacion 3: azul noche sobre naranja pedal: apto para ambos
+
+combinacion 4: azul noche sobre crema: apto para ambos
+
+combinacion 5: gris asfalto sobre crema: apto solo para texto largo
+
+combinacion 6: verde ruta sobre crema: apto solo para texto largo
+
+combinacion 7: naranja pedal sobre crema: no apto
+
+combinacion 8: blanco sobre azul noche: apto para ambos
+
+
+usare fondo crema, el texto sera de azul noche, los enlaces seran de su color base y los botones seran verde ruta
+
+https://emanuellpcz.github.io/rueda-libre/index.html
