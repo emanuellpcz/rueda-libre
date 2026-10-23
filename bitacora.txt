@@ -83,3 +83,14 @@ reservas → correo
 origen:reservas
 destino: correp
 ruta: mailto: hola@ruedalibre.example
+
+La estructura de mis paginas es muy simple, 
+
+                HEADER
+                NAV
+    ----------------------------------
+                MAIN
+    ----------------------------------
+                FOOTER
+
+                    
