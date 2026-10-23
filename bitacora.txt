@@ -99,3 +99,116 @@ La estructura de mi pagina es bastante simple, se compone de:
 hay dos divs que se deben conservar en la pagina de tarifas ya que son informacion complementaria lo cual no se ajusta mucho a el resto de etiquetas
 
 (hoy 22/10/2026 se fue la luz en las oficinas de riwi y perdi progreso que tuve que adelantar en casa, al intentar subir lo rehecho a github me aparecio un error que pude solucionar con la ayuda de la ia, por esto talvez habra un commit extra)
+
+Test 1 
+
+Nombre completo	Juan Pérez Gómez
+Número de documento	1023456789
+Correo electrónico	juan.perez@ejemplo.com
+Número de contacto	3001234567
+Fecha del alquiler	15/11/2026
+Tipo de bicicleta	Urbana
+Tipo de plan	1 hora
+Cantidad de bicicletas	2
+Tipo de recorrido	Ninguno
+Comentarios	Ninguno
+Acepta políticas	check
+
+Resultado: exitoso
+
+Test 2 
+
+Nombre completo	Al
+Número de documento	12345678
+Correo electrónico	alvarez@ejemplo.com
+Número de contacto	3123456789
+Fecha del alquiler	20/11/2026
+Tipo de bicicleta	Montaña
+Tipo de plan	Medio día
+Cantidad de bicicletas	1
+Tipo de recorrido	Río y parques
+Comentarios	Quiero hacer una ruta corta.
+Acepta políticas	check
+
+Test 3 
+
+Nombre completo	María Fernanda López
+Número de documento	10234
+Correo electrónico	maria.lopez@ejemplo.com
+Número de contacto	3109876543
+Fecha del alquiler	05/12/2026
+Tipo de bicicleta	Eléctrica
+Tipo de plan	1 día
+Cantidad de bicicletas	2
+Tipo de recorrido	Reto Las Palmas
+Comentarios	Ninguno
+Acepta políticas	check
+
+Test 4 — 
+
+Nombre completo	Carlos Andrés Ruiz
+Número de documento	123456789
+Correo electrónico	carlosgmail.com
+Número de contacto	3012345678
+Fecha del alquiler	10/11/2026
+Tipo de bicicleta	Urbana
+Tipo de plan	Medio día
+Cantidad de bicicletas	3
+Tipo de recorrido	Sabores de barrio
+Comentarios	Me gustaría conocer los parques.
+Acepta políticas	check
+
+Test 5 
+
+Nombre completo	Laura Gómez Restrepo
+Número de documento	1029384756
+Correo electrónico	laura.gomez@ejemplo.com
+Número de contacto	300123456
+Fecha del alquiler	25/11/2026
+Tipo de bicicleta	Montaña
+Tipo de plan	1 hora
+Cantidad de bicicletas	1
+Tipo de recorrido	Ninguno
+Comentarios	Ninguno
+Acepta políticas	check
+
+Test 6 
+
+Nombre completo	Sebastián Torres Díaz
+Número de documento	1002345678
+Correo electrónico	sebastian.torres@ejemplo.com
+Número de contacto	3156789012
+Fecha del alquiler	15/01/2027
+Tipo de bicicleta	Eléctrica
+Tipo de plan	1 día
+Cantidad de bicicletas	2
+Tipo de recorrido	Reto Las Palmas
+Comentarios	Ninguno
+Acepta políticas	check
+
+Test 7 
+
+Nombre completo	Andrea Martínez Gil
+Número de documento	1234567890
+Correo electrónico	andrea.martinez@ejemplo.com
+Número de contacto	3204567891
+Fecha del alquiler	30/12/2026
+Tipo de bicicleta	Urbana
+Tipo de plan	Medio día
+Cantidad de bicicletas	7
+Tipo de recorrido	Río y parques
+Comentarios	Necesitamos bicicletas para un grupo.
+Acepta políticas	check
+
+Test 8 
+Nombre completo	Daniel Alejandro Castro
+Número de documento	987654321
+Correo electrónico	daniel.castro@ejemplo.com
+Número de contacto	3056789123
+Fecha del alquiler	01/12/2026
+Tipo de bicicleta	Montaña
+Tipo de plan	1 día
+Cantidad de bicicletas	4
+Tipo de recorrido	Sabores de barrio
+Comentarios	Por favor, preparar las bicicletas temprano.
+Acepta políticas	nocheck
