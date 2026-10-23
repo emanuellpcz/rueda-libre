@@ -32,6 +32,86 @@
 
     </dl>
 
+    <div id="formulario-reserva">
+
+        <form action="post">
+
+            <h3>Tus datos</h3>
+
+            <label for="nombre">Nombre completo</label>
+            <br>
+            <input id="nombre" type="text" name="nombre" placeholder="Ingrese su nombre">
+            <br><br>
+            <label for="documento">Numero de documento</label>
+            <br>
+            <input id="documento" name="documento" type="number" placeholder="Ingrese su documento">
+            <br><br>
+            <label for="correo">Correo electronico</label>
+            <br>
+            <input id="correo" name="correo" type="email" placeholder="Ingrese su correo">
+            <br><br>
+            <label for="numero">Numero de contacto</label>
+            <br>
+            <input id="numero" name="numero" type="number" placeholder="Ingrese su numero">
+            <br>
+            <h3>Tu alquiler</h3>
+            <br>
+            <label for="fecha">Fecha del alquiler</label>
+            <br>
+            <input id="fecha" name="fecha" type="date">
+            <br><br>
+            <label for="tipo-bicicleta">Tipo de bicicleta</label>
+            <br>
+            <select name="tipo-bicicleta" id="tipo-bicicleta">
+
+                <option value="1">Urbana</option>
+                <option value="2">Montaña</option>
+                <option value="3">Electrica</option>
+
+            </select>
+            <br><br>
+            <label for="tipo-plan">Tipo de plan</label>
+            <br>
+            <select name="tipo-plan" id="tipo-plan">
+
+                <option value="1">1 hora</option>
+                <option value="2">Medio dia</option>
+                <option value="3">1 dia</option>
+
+            </select>
+            <br><br>
+            <label for="cantidad-bicicletas">Cantidad de bicicletas</label>
+            <br>
+            <input id="cantidad-bicicletas" name="cantidad-bicicletas" type="number" placeholder="Cuantas bicicletas llevara">
+            <br><br>
+            <label for="tipo-recorrido">Tipo de recorrido</label>
+            <br>
+            <select name="tipo-recorrido" id="tipo-recorrido">
+
+                <option value="1">ninguno</option>
+                <option value="2">Rio y parques</option>
+                <option value="3">Sabores de barrio</option>
+                <option value="4">Reto las palmas</option>
+
+            </select>
+            <br>
+            <h3>Confirmacion</h3>
+            <br>
+            <label for="comentario">Comentarios</label>
+            <br>
+            <textarea name="comentario" id="comentario" placeholder="Ingrese informacion adicional"></textarea>
+            <br><br>
+            <label for="terminos">
+                <input type="checkbox" name="terminos" id="terminos" required>
+                Acepto los terminos de alquiler
+            </label>
+            <br><br>
+            <button type="submit">Enviar</button>
+
+        </form>
+
+    </div>
+
     </main>
 
     <footer>
